@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+        <color name="line_view">#dddddd</color>
+        <!-- 点中之后的颜色 -->
+        <color name="menu_click">#000000</color>
+        <color name="menu_nomarl">#444444</color>
+        <!-- menu背景色 -->
+        <color name="menu_bgcolor">#f4f5f6</color>
+        <!--title背景色-->
+        <color name="title_bgcolor">#000</color>
+
+</resources>
